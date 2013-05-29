@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.SandroTripleO</groupId>
+  <artifactId>github-maven-example</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130529181717</lastUpdated>
+  </versioning>
+</metadata>
